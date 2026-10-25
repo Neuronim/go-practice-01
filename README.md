@@ -29,7 +29,7 @@ go build ./...
 
 ## Дополнительные программы
 
-go run ./cmd/card/main.go
+go run ./cmd/card/main.go  
 go run ./cmd/time-converter/main.go
 
 ## Проверенные данные
@@ -46,5 +46,5 @@ go run ./cmd/time-converter/main.go
 
 ## Что осталось сделать
 
-Проверено: проект запускается локально
+Проверено: проект запускается локально  
 Обязательные задания выполнены
